@@ -3,5 +3,7 @@ a simple tool to processing any picture to gameboy color assembly format selecti
 
 # TODO:
 
-Efficiently select all 52 colors in theirs palettes
-Hi-Color Mode
+colour selection
+output to ASM
+palette asker (hex or 16bit to 5bit GBC palette)
+Hi-Colour mode
