@@ -1,9 +1,9 @@
 # GB-GBC-Image-Processor
-a simple tool to processing any picture to gameboy color assembly format selecting data using clustering for correct color assignation to the palettes
+a simple tool to processing any picture to Gameboy/Gameboy Color assembly format selecting data using clustering for correct color assignation to the palettes
 
 # TODO:
 
-colour selection
-output to ASM
-palette asker (hex or 16bit to 5bit GBC palette)
-Hi-Colour mode
+colour selection__
+output to ASM__
+palette asker (hex or 16bit to 5bit GBC palette)__
+Hi-Colour mode__
